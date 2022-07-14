@@ -1,5 +1,7 @@
 # insurance-data-processing
 
-insurance data analysis using python and jupyter notebook
+insurance data processing using python and jupyter notebook
 
 proses data nasabah perusahaan asuransi menggunakan python dan jupyter notebook
+
+database source: kaggle
